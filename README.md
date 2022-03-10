@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ##
 
 <p>
- <img style="width: 90px; float: right;height=200em" align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
+ <img style="width: 100px; float: right;height=200em" align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
  Me chamo Júlia,sou macaense e tenho 21 anos. <br>
  Atualmente estou cursando Ciência da Computação  pela UFF de Rio das Ostras.
 </p>
