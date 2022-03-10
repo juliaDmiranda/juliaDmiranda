@@ -1,4 +1,4 @@
-### Oi
+### Olá!
 <!--
 **juliaDmiranda/juliaDmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,7 +11,12 @@ Here are some ideas to get you started:
 -->
 
 ##
- Atualmente estou cursando Ciência da Computação pela UFF de Rio das Ostras
+
+<p>
+ <img style="width: 90px; float: right;height=200em" align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
+ Me chamo Júlia,sou macaense e tenho 21 anos. <br>
+ Atualmente estou cursando Ciência da Computação  pela UFF de Rio das Ostras.
+</p>
 
 ##
 <div align="center">
