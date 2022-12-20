@@ -1,4 +1,4 @@
-### Olá!
+### Hi!
 <!--
 **juliaDmiranda/juliaDmiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 
 <p>
  <img style="width: 100px; float: right;height=200em" align="right" src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif">
- Me chamo Júlia,sou macaense e tenho 21 anos. <br>
- Atualmente estou cursando Ciência da Computação  pela UFF de Rio das Ostras.
+ My name is Júlia
+ 
+ - Brazilian
+ - Woman
+ - 22 year old.+
+ <br>
+ I'm a college student at Universidade Federal Fluminense in the Computer Science course. 
+ <br>I heavily use my GitHub account for my academic works, but I also use this platform to save programs that I coded during particular programming language studies and personal projects.
 </p>
 
 ##
