@@ -1,11 +1,11 @@
-## hI
-![](https://cdn.discordapp.com/attachments/1198437251907080244/1198703850647998485/ezgif.com-animated-gif-maker.gif?ex=65bfdef4&is=65ad69f4&hm=e513c4982178d66dd01d08da33a32477f34d4c31aabc762e71e276b411a73cd7&)
+## Hi
 
-##
- My name is Júlia
  <p>
+ My name is Júlia.
+ 
  I'm a Computer Science student at Universidade Federal Fluminense.
- <br>I heavily use my GitHub account for my academic works, but I also use this platform to save programs that I coded during particular programming language studies and personal projects.
+
+ I heavily use my GitHub account for my academic works, but I also use this platform to save programs that I coded during particular programming language studies and personal projects.
 </p>
 
 ##
