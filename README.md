@@ -1,7 +1,5 @@
 Hi, I'm Júlia! 👋
 
-🎓 Computer Science Student at Universidade Federal Fluminense
+🎓 Computer Science graduate from Universidade Federal Fluminense (UFF)
 
-💻 Coding Projects: Academic work, programming studies, and personal projects
-
-🖌️ Passionate oil painter
+💻 Coding projects: academic work, programming studies, and personal projects
